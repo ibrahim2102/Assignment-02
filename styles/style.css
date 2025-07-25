@@ -211,7 +211,7 @@ ul li a {
      width: 270px;
      height: 485px; 
     margin-top: 50px;
-    padding: 0 75px;
+    padding: 0 62px;
 }
 .card-name{
     margin-left: 65px;
@@ -292,7 +292,7 @@ ul li a {
     max-width: 100%;
     margin-top: 5px;
     box-sizing: border-box;
-    padding: 0;
+    padding: 0 ;
     
     
   }
@@ -384,7 +384,7 @@ ul li.list{
   font-size: 50px;
   font-weight: bold;
   color: #000000;
-      margin-left: 30px;
+      margin-left: 62px;
 }
 
 
