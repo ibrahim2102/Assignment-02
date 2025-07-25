@@ -16,14 +16,6 @@
     "wdth" 100;
 }
 
-/* .body-width{
-  width: 100%;
-  margin: 0;
-} */
-
-/* .main-width{
-  width: 1800px;
-} */
 
 /* header */
 
@@ -246,10 +238,9 @@ ul li a {
     gap: 94px;
     padding: 30px 50px; 
      justify-content:space-between; 
-     /* width: 1480px; */
     margin: 0 35px;
     justify-content: space-between;
-    /* width: 1863px; */
+    
     
     
 }
@@ -322,15 +313,10 @@ ul li a {
   align-items: center;
   gap: 0;
   margin: 180px 154px;
-  /* margin-bottom: -434px; */
-  /* width: 1200px; */
-  
 }
 
 .plant-lover {
   position: relative;
-  /* width: 1200px; 
-  height: 1200px;  */
   margin-top: 152px;
   margin-left: -34px;
   box-sizing: border-box;
@@ -390,15 +376,8 @@ ul li.list{
 
 /* Latest Deals Section */
 
-.latest-deals{
-  /* width: 1863px; */
-  /* margin-left: 100px; */
-  
-  } 
 
   .latest-details-info{
-    
-    /* margin-left: 256px; */
     text-align: center;
     margin: 0 auto;
   }
@@ -434,9 +413,6 @@ ul li.list{
    max-width: 1600px;
   margin: 90px auto;
   height: 600px;
-  /* padding: 50px 50px; */
-  /* width: 1863px; */
-  
 }
 
 
@@ -444,17 +420,15 @@ ul li.list{
 
 .deal-bloom{
   background-image: url('../assets/deal-ana.png');
-  /* background-repeat: no-repeat; */
   width: 100%;
   min-height: 250px;
   height: 201px;
   border-radius: 14px;
-  
     background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
-  /* height: auto; */
+ 
 }
 .deal-zabo{
   background-image: url('../assets/deal-zabo.png');
@@ -467,7 +441,7 @@ ul li.list{
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
-  /* height: auto; */
+ 
 }
 
 .deal-ana{
@@ -480,10 +454,8 @@ ul li.list{
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
-  
-  
   border-radius: 14px;
-  /* height: auto; */
+  
   
 }
 
@@ -558,6 +530,8 @@ ul li.list{
   }
   .plant-lover-description-title{
     font-size: 30px;
+    width: 100%;
+        margin: 0;
     
   }
   .plant-lover-description ul{
@@ -572,7 +546,7 @@ ul li.list{
     width: 100%;
     height: auto;
     max-width: 100%;
-    /* margin-left: 10px; */
+    
     max-width: 400px;
     
   }
@@ -585,7 +559,7 @@ ul li.list{
 
   .plant-lover-imgs img{
     width: 100%;
-    /* max-width: 400px; */
+    
   }
 
   .trusted-badge{
@@ -621,125 +595,6 @@ ul li.list{
 
     }
  
-
-
-
-
-
-  /* .deals-grid{
-    
-  
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  justify-content: center;
-  align-items: center;
-  gap: 24px;
-  padding:0 30px;
-  width: 100%;
-  margin-top: 40px;
-  margin-right: 20px;
-  margin-left: 20px;
-  box-sizing: border-box;
-  height: 100%;
-  
-
-  } */
- /* .deals-grid {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 100%;
-  box-sizing: border-box;
- }
-
-
-.deal-bloom{
-  min-height: 180px; 
-   width: 100%;
-  box-sizing: border-box;
-  aspect-ratio: 16 / 9;
-  background-size: cover;
-  height: 100%;
-  margin-right: 0;
-}
-.deal-ana {
-  /* min-height: 180px; */
-   /* margin-top: 0px;
-  width: 100%;
-  box-sizing: border-box;
-  aspect-ratio: 16 / 9;
-  background-size: cover;
-  background-position: center;
-  
-  
-  height: 100%;
-  margin-right: 0; 
-
- }
-
-.deal-zabo{
-   max-height: 100%;
-   width: 100%;
-   box-sizing: border-box;
-   aspect-ratio: 16 / 9;
-   background-size: cover;
-   height: 100%;
-   margin-right: 0;
-}
-
-
-    .deal-bloom a,
-    .deal-zabo a,
-  .deal-ana a {
-    margin-left: 0 ;
-    font-size: 1rem ;
-    text-align: center; */
-    /* display: block; */
-    /* margin-top: 8px;
-    
-  }
-
-  .deal-btn{
-    margin-left: 20px;
-  }
-
-  .deal-discount{
-    margin-left: 10px;
-  }
-
-    .deal-content {
-    font-size: 1rem;
-    left: 12px;
-    top: 12px;
-  }
-
-   .deal-btn {
-    padding: 10px 20px;
-    font-size: 0.9rem;
-  }
-
-  .delas-control{
-    width: 100%;
-    margin: 0;
-    padding: 0px;
-    height: 100%;
-  }  */
-
-
-/* Join Section */
-
-/* .join-title{
-  font-size: 50px;
-  font-weight: bold;
-  color: white;
-  text-align: center;
-}
-
-.join-section{
-  background-image: url('../assets/news-letter-bg.png');
-  background-repeat: no-repeat;
-  width: 100%;
-  
-} */
 
   }
 
